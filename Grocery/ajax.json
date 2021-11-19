@@ -1,0 +1,93 @@
+{
+    "shopping":[
+        {
+            "Slno": "1",
+            "Name": "Milk",
+            "Quantity": "1",
+            "Unit": "ml",
+            "Department": "Diary",
+            "Notes": "Malanad"
+        },
+
+        {
+            "Slno": "2",
+            "Name": "Carrot",
+            "Quantity": "500",
+            "Unit": "Grams",
+            "Department": "Veggies",
+            "Notes": "Fresh"
+        },
+
+        {
+            "Slno": "3",
+            "Name": "Tomato",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Veggies",
+            "Notes": "Fresh"
+        },
+
+        {
+            "Slno": "4",
+            "Name": "Maida",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Flour",
+            "Notes": "Elite Fresh"
+        },
+
+        {
+            "Slno": "5",
+            "Name": "Sugar",
+            "Quantity": "2",
+            "Unit": "KG",
+            "Department": "Sugar",
+            "Notes": "Granulated Sugar"
+        },
+        {
+            "Slno": "6",
+            "Name": "Atta",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Flour",
+            "Notes": "Aashirvad Multigrain"
+        },
+
+        {
+            "Slno": "7",
+            "Name": "Tea Powder",
+            "Quantity": "500",
+            "Unit": "Grams",
+            "Department": "Tea Powder",
+            "Notes": "Fresh"
+        },
+
+        {
+            "Slno": "8",
+            "Name": "Oil",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Oil",
+            "Notes": "Sun Flower"
+        },
+
+        {
+            "Slno": "9",
+            "Name": "Apple",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Fruit",
+            "Notes": "Fresh"
+        },
+
+        {
+            "Slno": "10",
+            "Name": "Orange",
+            "Quantity": "1",
+            "Unit": "KG",
+            "Department": "Fruit",
+            "Notes": "Fresh"
+        }
+    ]
+}
+

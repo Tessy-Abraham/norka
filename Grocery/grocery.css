@@ -1,0 +1,17 @@
+#demo{
+    text-align: center;
+    margin-bottom: 10px;
+}
+body{
+    background-image: url("img/bg.jpeg");
+    background-size: cover;
+}
+#table1{
+    background-color: whitesmoke;
+    opacity: 0.8;
+}
+.tc{
+    color: white;
+    font-size: 45px;
+
+}
